@@ -1,2 +1,3 @@
-# carty-resolution
-Carty Resolution Inclusive Services — mediation, arbitration and conflict resolution in the Greater Toronto Area.
+# Carty Resolution Inclusive Services
+
+Static business website. Publish main branch, root folder using GitHub Pages.
